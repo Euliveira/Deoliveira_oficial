@@ -1,2 +1,3 @@
 # Deoliveira_oficial
-Config files for my GitHub profile.
+Bot para Marketing no WhatsApp
+Envio de mensagens em massa
